@@ -1,0 +1,8 @@
+apache-airflow==2.10.0
+apache-airflow-providers-amazon
+apache-airflow-providers-snowflake
+boto3
+snowflake-connector-python
+requests
+beautifulsoup4
+python-dotenv
